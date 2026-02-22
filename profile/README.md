@@ -12,6 +12,7 @@
   <a href="https://github.com/Shyntr/shyntr"><strong>Explore the Core Broker »</strong></a>
   <br />
   <br />
+  <a href="https://docs.shyntr.com">View Docs</a> ·
   <a href="https://github.com/Shyntr">View Repositories</a> ·
   <a href="https://github.com/Shyntr/shyntr/issues">Report Bug</a> ·
   <a href="https://github.com/Shyntr/shyntr/discussions">Request Feature</a>
